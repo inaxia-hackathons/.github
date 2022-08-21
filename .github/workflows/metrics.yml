@@ -17,9 +17,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
              
           # Options
-          user: inaxia-hackathons
-          template: classic
-          base: header, activity, community, repositories, metadata
+          user: github
+          # template: classic
+          # base: header, activity, community, repositories, metadata
           # config_timezone: Europe/London
           # plugin_achievements: yes
           # plugin_achievements_display: detailed
