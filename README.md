@@ -1,3 +1,2 @@
-# .github
-
+# Stats
 ![Metrics](./github-metrics.svg)
